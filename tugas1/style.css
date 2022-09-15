@@ -1,0 +1,66 @@
+body{
+	background: url('Asset 2.png');
+	background-size: cover;
+	
+
+	
+
+}
+
+.header .nama{
+	font-family: Bahnschrift;
+	color: white;
+	font-size: 20px;
+	margin-left: 40px;
+	margin-top: 25px;
+}
+
+.Login{
+	margin-top: 250px;
+	margin-left: 425px;
+
+}
+
+.username{
+	width: 500px;
+	height: 37px;
+	border-radius: 25px;
+	font-family: Bahnschrift;
+	font-size: 18px;
+	text-align: center;
+	border: none;
+	margin-top: -30px;
+
+
+}
+
+.submit{
+	width: 500px;
+	height: 37px;
+	border-radius: 25px;
+	font-size: 20px;
+	text-align: center;
+	font-family: Inter;
+	border: none;
+	margin-top: -40px;
+
+
+
+}
+
+.text{
+	width: 150px;
+	
+	margin-top: -25px;
+	margin-left: 25px;
+	color: grey;
+}
+
+.keterangan{
+	color: white;
+	font-family: Roboto Condensed;
+	margin-left: 100px;
+	margin-top: 10px;
+
+}
+
